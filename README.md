@@ -1,5 +1,3 @@
-Este repositorio explora la intersección de la inteligencia artificial (IA) y el movimiento solarpunk. El solarpunk imagina un futuro sostenible y equitativo en el que la tecnología mejore el bienestar humano y la armonía ambiental. Este proyecto tiene como objetivo desarrollar aplicaciones de IA que:
+¡Explora el mundo de la creación con IA!
 
-Promover la sostenibilidad: creando modelos para la optimización de recursos, la predicción de desastres y la agricultura sostenible.
-Fomentar la comunidad: creando plataformas para compartir conocimientos y colaborar entre personas con intereses compartidos.
-Inspirar la creatividad: desarrollando herramientas de inteligencia artificial que ayuden a los artistas y diseñadores a visualizar y crear un futuro más sostenible.
+Este repositorio es tu espacio para experimentar y aprender sobre las últimas tendencias en Inteligencia Artificial Generativa. Aquí encontrarás una variedad de proyectos y ejemplos prácticos para ayudarte a comprender y aplicar diferentes arquitecturas de IA Generativa.
